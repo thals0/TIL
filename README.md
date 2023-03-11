@@ -14,6 +14,8 @@ Today-I-Learn
 - [Lombok 어노테이션](https://github.com/thals0/TIL/issues/5)
 
 ## Architecture & Design Pattern
+- [domain](https://github.com/thals0/TIL/issues/7)
+- [SW Architecture](https://github.com/thals0/TIL/issues/8)
 - [Command Pattern](https://github.com/thals0/TIL/issues/1)
 
 ## Trouble Shooting
