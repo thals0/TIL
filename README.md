@@ -4,6 +4,7 @@ Today-I-Learn
 ## CS
 - [docker](https://github.com/thals0/TIL/issues/22) 
 - [docker 및 docker-compose 설치](https://github.com/thals0/TIL/issues/27)
+- [index란?](https://github.com/thals0/TIL/issues/28)
 
 ### Algorithm
 - [Tree](https://github.com/thals0/TIL/issues/2)
@@ -35,5 +36,4 @@ Today-I-Learn
 - [예외처리 컨벤션 통일](https://github.com/thals0/TIL/issues/13)
 - [개발 서버 Redis 해킹당한 건에 대하여 ..](https://github.com/thals0/TIL/issues/16)
 - [Redis password 설정](https://github.com/thals0/TIL/issues/17)
-
-## Reference
+- [properties 사용시 "Could not resolve placeholder" 오류 발생](https://thals.tistory.com/196)
